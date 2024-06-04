@@ -32,12 +32,16 @@ extra:
   social:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/paladinleeds
+      name: GitHub
     - icon: fontawesome/brands/threads
       link: https://threads.net/@paladinleeds
+      name: Threads
     - icon: fontawesome/brands/discord
       link: https://discord.gg/tmnv48e
-    - icon: fontawesome/solid/transgender
+      name: Discord
+    - icon: fontawesome/solid/person-half-dress
       link: https://en.pronouns.page/@paladinleeds
+      name: Pronouns.page
   consent:
     title: Only the most heavenly of cookies. But we don't give them out without permission.
     description: >-
