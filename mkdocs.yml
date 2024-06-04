@@ -29,7 +29,7 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/paladinleeds]
+      link: https://github.com/paladinleeds
     - icon: fontawesome/brands/threads
       link: https://threads.net/@paladinleeds
     - icon: fontawesome/brands/discord
