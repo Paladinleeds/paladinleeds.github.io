@@ -38,6 +38,24 @@ extra:
       link: https://discord.gg/tmnv48e
     - icon: fontawesome/solid/transgender
       link: https://en.pronouns.page/@paladinleeds
+  consent:
+    title: Only the most heavenly of cookies. But we don't give them out without permission.
+    description: >-
+      Please note that we use cookies to recognise your repeated visits and preferences. We also use this to measure the effectiveness of our documentation. We want to make sure that you find what you are looking for. You can update your consent at any time by clicking the link at the bottom of the page.
+    actions:
+      - accept
+      - reject
+      - manage
+    cookies:
+      analytics:
+        name: Google Analytics
+        checked: false
+      github:
+        name: GitHub
+        checked: false
+
+plugins:
+  - privacy
 
 markdown_extensions: 
   - pymdownx.highlight:
@@ -56,4 +74,4 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 copyright: |
-  &copy; 2024 <a href="https://www.github.com/paladinleeds/" target="_blank">Paladinleeds</a>
+  &copy; 2024 <a href="https://www.github.com/paladinleeds/" target="_blank">Paladinleeds</a> - <a href="#__consent">Manage your cookie consent</a>
