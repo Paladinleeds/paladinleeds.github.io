@@ -36,6 +36,8 @@ extra:
       link: https://threads.net/@paladinleeds
     - icon: fontawesome/brands/discord
       link: https://discord.gg/tmnv48e
+    - icon: fontawesome/solid/transgender
+      link: https://en.pronouns.page/@paladinleeds
 
 markdown_extensions: 
   - pymdownx.highlight:
