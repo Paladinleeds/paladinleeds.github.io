@@ -1,5 +1,7 @@
 site_name: Documentation for Paladinleeds
 theme:
+  logo: assets/logo.png
+  favicon: assets/logo.png
   name: material
   features:
     - navigation.tabs
