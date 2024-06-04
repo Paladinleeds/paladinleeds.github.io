@@ -1,74 +1,13 @@
-# Homepage
+# Landing
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Welcome!
 
-## Annotation examples
+Thank you for coming to this site. I hope it can prove a valuable resource for help with any issues you may face with my software.
 
-### Codeblocks
+## What is this about?
 
-`Inline code` can be used here.
+This is the home of the documentation for all plugins and other tools as developed by Paladinleeds. This should allow you to self-serve help for most of your issues. If however after checking here you haven't got the answers you seek, you may reach out for help in the Discord server (see the link at the bottom right of the page)
 
-### Plain codeblock
+### So what stuff am I making?
 
-A plain codeblock
-
-```
-using System;
-try
-{
-    Console.WriteLine("This is a plain codeblock!");
-}
-```
-
-#### Code for a specific language
-
-Some more code marked with `cs` at the start:
-
-``` cs
-public static void Highlight()
-{
-    Console.WriteLine("I am syntax highlighted!");
-}
-```
-
-#### With a title
-
-``` cs title="TryCatch.cs"
-try
-{
-    int RanNumber = 69;
-    Console.WriteLine(RanNumber.ToString());
-}
-catch (Exception e)
-{
-    Console.WriteLine("Function failed!");
-}
-```
-
-#### With line numbers
-
-``` cs linenums="1"
-try
-{
-    int RanNumber = 69;
-    Console.WriteLine(RanNumber.ToString());
-}
-catch (Exception e)
-{
-    Console.WriteLine("Function failed!");
-}
-```
-
-#### Highlighting lines
-
-``` cs hl_lines="3 4"
-try
-{
-    int RanNumber = 69;
-    Console.WriteLine(RanNumber.ToString());
-}
-catch (Exception e)
-{
-    Console.WriteLine("Function failed!");
-}
-```
+There will be plugins, along with a new C# wrapper for StreamDeck plugin development. There may also be other public projects involved, but nothing confirmed as of yet.
