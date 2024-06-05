@@ -8,7 +8,6 @@ theme:
     - navigation.instant
     - navigation.instant.progress
     - navigation.tabs
-    - navigation.sections
     - navigation.top
     - navigation.indexes
     - search.suggest
