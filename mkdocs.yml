@@ -6,11 +6,11 @@ theme:
   name: material
   features:
     - navigation.instant
-    - navigation.tracking
+    - navigation.instant.progress
     - navigation.tabs
     - navigation.sections
     - navigation.top
-    - navigation.index
+    - navigation.indexes
     - search.suggest
     - search.highlight
     - content.tabs.link
@@ -35,16 +35,16 @@ extra:
   social:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/paladinleeds
-      name: GitHub
+      name: Paladinleeds on GitHub
     - icon: fontawesome/brands/threads
       link: https://threads.net/@paladinleeds
-      name: Threads
+      name: Paladinleeds on Threads
     - icon: fontawesome/brands/discord
       link: https://discord.gg/tmnv48e
-      name: Discord
+      name: Support Server - The Holy Castle - Powered by Discord
     - icon: fontawesome/solid/person-half-dress
       link: https://en.pronouns.page/@paladinleeds
-      name: Pronouns.page
+      name: Paladinleeds Pronouns.page
   consent:
     title: Only the most heavenly of cookies. But we don't give them out without permission.
     description: >-
@@ -56,9 +56,6 @@ extra:
     cookies:
       analytics:
         name: Google Analytics
-        checked: false
-      github:
-        name: GitHub
         checked: false
 
 plugins:
@@ -84,4 +81,4 @@ markdown_extensions:
       title: Here you'll find...
 
 copyright: |
-  &copy; 2024 <a href="https://www.github.com/paladinleeds/" target="_blank">Paladinleeds</a> - <a href="#__consent">Manage your cookie consent</a>
+  &copy; 2024 <a href="https://www.github.com/paladinleeds/" target="_blank">Paladinleeds</a> - <a href="#__consent">manage your cookie consent</a>
