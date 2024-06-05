@@ -1,13 +1,16 @@
 site_name: Paladinleeds - Plugin & Addon Documentation
+site_url: https://paladinleeds.github.io/
 theme:
   logo: assets/PaladinLeedsSmall.png
   favicon: assets/PaladinLeedsSmall.png
   name: material
   features:
+    - navigation.instant
+    - navigation.tracking
     - navigation.tabs
     - navigation.sections
-    - toc.integrate
     - navigation.top
+    - navigation.index
     - search.suggest
     - search.highlight
     - content.tabs.link
@@ -76,6 +79,9 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - toc:
+      permalink: true
+      title: Here you'll find...
 
 copyright: |
   &copy; 2024 <a href="https://www.github.com/paladinleeds/" target="_blank">Paladinleeds</a> - <a href="#__consent">Manage your cookie consent</a>
