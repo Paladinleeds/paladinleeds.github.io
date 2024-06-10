@@ -36,4 +36,4 @@ I strive to make my plugins functional on multiple operating systems, along with
 I am also aware of devices that utilise StreamDeck plugins but do not directly interface with the Elgato StreamDeck software. I will not be testing these devices, and users are also not allowed to submit compatibility check information about these for the documentation.
 
 !!! danger
-    These devices that don't interface directly with the StreamDeck software are using reverse-engineering and other hacks to gain functionality. As a result, they often have quirks that cause issues within plugins. As a result, support cannot be provided if there are issues. You would have to liaise with other users outside of the server.
+    These devices that don't interface directly with the StreamDeck software are using reverse-engineering and other hacks to gain functionality. As a result, they often have quirks that cause issues within plugins. Consequently, support cannot be provided if there are issues. You would have to liaise with other users outside of the server.
