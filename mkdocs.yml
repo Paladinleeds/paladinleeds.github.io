@@ -18,6 +18,7 @@ theme:
   logo: assets/PaladinLeedsSmall.png
   favicon: assets/PaladinLeedsSmall.png
   name: material
+  custom_dir: overrides
   features:
     - navigation.instant
     - navigation.instant.progress
