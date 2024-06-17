@@ -17,8 +17,8 @@ I strive to make my plugins functional on multiple operating systems, along with
     1. :fontawesome-regular-circle-question: - Claim: Partially working, tested by community
     1. :fontawesome-solid-circle-xmark: - Not working at all, tested by developer
     1. :fontawesome-regular-circle-xmark: - Claim: Not working at all, tested by community
-    1. :fontawesome-solid-circle-exclamation: - Untested
-    1. :fontawesome-solid-circle-radiation: - (Profiles only) Will not work on specific device model (due to limitations on the device)
+    1. :fontawesome-solid-circle-exclamation: - Will not work on specific device model (due to limitations on the device)
+    1. :fontawesome-solid-circle-radiation: - Untested
 
     This will be placed in information for individual plugin functionality, allowing you to see how this functionality is compatible on a per-action basis. Notes may also be provided dependent on the ranking.
 
