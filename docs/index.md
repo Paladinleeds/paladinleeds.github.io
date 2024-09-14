@@ -10,4 +10,4 @@ This is the home of the documentation for all plugins and other tools as develop
 
 ### So what stuff am I making?
 
-There will be plugins, along with a new C# wrapper for StreamDeck plugin development. There may also be other public projects involved, but nothing confirmed as of yet.
+More details to be announced on that front.
