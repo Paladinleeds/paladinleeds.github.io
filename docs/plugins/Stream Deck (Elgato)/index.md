@@ -22,7 +22,7 @@ I strive to make my plugins functional on multiple operating systems, along with
 
     This will be placed in information for individual plugin functionality, allowing you to see how this functionality is compatible on a per-action basis. Notes may also be provided dependent on the ranking.
 
-??? info "Support checks"
+??? note "Support checks"
     We check plugins under functionality types rather than against specific devices. Here are the functionality types available:
 
     - Dial
@@ -30,7 +30,7 @@ I strive to make my plugins functional on multiple operating systems, along with
     - Touch
     - Panel (think the InfoBar on the Stream Deck Neo)
 
-??? note "Information regarding profiles"
+??? info "Information regarding profiles"
     When specific profiles are brought into play for plugins, these will then have compatibility checks against specific Stream Deck hardware. These will be tested as follows.
 
     - 15 (both Mk1 and Mk2)
