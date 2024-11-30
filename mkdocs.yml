@@ -34,16 +34,28 @@ theme:
     - content.tooltips
   language: en
   palette:
-    - scheme: default
+
+  # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
       toggle:
-        icon: material/toggle-switch-off-outline 
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      toggle:
+        icon: material/brightness-7
         name: Switch to dark mode
       primary: green
       accent: purple 
-    - scheme: slate 
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
       toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode    
+        icon: material/brightness-4
+        name: Switch to system preference    
       primary: green
       accent: pink
 
